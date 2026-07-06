@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this paper or reference its ideas, please cite it as below."
+title: "Covenant Equilibrium: Prompt-Conditioned Cooperative Reasoning in LLMs Under Explicit Self-Interest Constraints"
+authors:
+  - family-names: Flynn
+    given-names: Sam
+    affiliation: Independent Researcher
+repository-code: "https://github.com/darksciencedivision-ctrl/covenant-equilibrium"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: 2026-07-05
