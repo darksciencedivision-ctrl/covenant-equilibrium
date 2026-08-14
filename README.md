@@ -22,3 +22,5 @@ The paper investigates prompt-conditioned cooperative reasoning in large languag
 ## License
 
 CC BY 4.0 — see [LICENSE](LICENSE).
+
+**License:** CC BY-NC-ND 4.0 from this version forward. Versions published through commit `2927dd04` remain available under CC BY 4.0, which is irrevocable for those published versions.

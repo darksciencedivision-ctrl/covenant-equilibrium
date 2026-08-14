@@ -6,7 +6,7 @@ authors:
     given-names: Samuel
     affiliation: Independent Researcher
 repository-code: "https://github.com/darksciencedivision-ctrl/covenant-equilibrium"
-license: CC-BY-4.0
+license: CC-BY-NC-ND-4.0
 version: "1.0.0"
 date-released: 2026-07-05
 notes: "This repository contains the paper's abstract, references, and citation metadata. The full manuscript is in preparation and not yet published."
